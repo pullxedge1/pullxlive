@@ -1,0 +1,18 @@
+{
+  "name": "pullxlive",
+  "version": "1.0.0",
+  "description": "PullXEdge Live Streaming Platform",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [
+    "streaming",
+    "live"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}
